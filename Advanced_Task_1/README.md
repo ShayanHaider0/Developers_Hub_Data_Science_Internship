@@ -1,0 +1,2 @@
+# Term Deposit Subscription Prediction
+This project predicts whether a bank customer will subscribe to a term deposit using the Bank Marketing Dataset. It involves data preprocessing, building classification models (Logistic Regression and Random Forest), and evaluating them with F1-score, confusion matrix, and ROC AUC. SHAP is used to interpret individual predictions and identify key factors influencing subscription. The insights from this analysis can help banks optimize marketing strategies and target potential customers more effectively.
