@@ -1,0 +1,2 @@
+# Customer Segmentation Using Unsupervised Learning
+This project performs customer segmentation using the Mall Customers Dataset. K-Means clustering was applied to group customers based on annual income and spending score, and PCA/t-SNE visualizations were used to interpret the clusters. Insights from the clusters suggest targeted marketing strategies for each segment, helping businesses optimize promotions and improve customer engagement. The project demonstrates unsupervised learning, dimensionality reduction, and data-driven strategy development.
